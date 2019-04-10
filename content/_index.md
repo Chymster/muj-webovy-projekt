@@ -1,5 +1,5 @@
 ---
-title: Generátor D&D postav
+title:Generátor D&D postav
 ---
 
 **Mým cílem je vytvořit nástroj na tvorbu postav do Dungeons & Dragons v českém jazyce. Jednoduchý nástroj na základě zvolených nebo náhodně vygenerovaných elementů vytvoří hotovou postavu.**
