@@ -1,6 +1,6 @@
 ---
 title:  "Tvorba moodboardu pro náš web"
-date:   2018-04-16
+date:   2019-04-16
 tags: 
     - moodboard
     - návrh
