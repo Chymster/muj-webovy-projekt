@@ -8,7 +8,7 @@ tags:
 ---
 ## Jáchym
 Náš web by podle mých představ měl vycházet z webu DnD beyond. Je to velice užiteční nástroj na tvorbu postav do DnD. Ta hlavní struktura by měla vycházet z klasického character sheet ( To je ta bílá stránka. Je to základní pomůcka pro Dnd. Kde jsou statistiky, životy atd). Samotné logo Dnd je červené a v takovém nádechu bych chtěl i tu stránku po grafické stránce. Mám tam ukázku, jak hezky ladí červená z černou a žlutou. Dále bych chtěl mít o všech ras, povolaní atd obrázky jak asi vypadají. Samotný web bude jedna hlavní stránka s character sheet a potom spousta menších stráneček na jaké se dostane přes hlavní menu.
-     ![TMoodBoard](https://imgur.com/MQGHHvR)
+     ![TMoodBoard](https://i.imgur.com/MQGHHvR.png)
 
 
 
