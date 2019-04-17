@@ -5,7 +5,6 @@ tags:
     - moodboard
     - návrh
     - grafika
-	- D&D
 ---
 ## Krátký úvod
 Cílem tohoto článku je krátké zamyšlení nad visuální podobou webu. Postupně tu představujeme a popisujeme své návrhy a přípomínky. Očekávaným výstupem bude stav kdy se budeme schopni domluvit na jednotném návrhu podoby webu.
