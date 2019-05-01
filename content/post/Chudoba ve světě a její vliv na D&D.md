@@ -5,8 +5,8 @@ tags:
     - dataset
     - chudoba
     - D&D
-	- Wizards of the Coast
-	- problémy aplikovatelnosti kriterii hodnocení výuky na námi vybrané téma
+    - Wizards of the Coast
+    - problémy aplikovatelnosti kriterii hodnocení výuky na námi vybrané téma
 ---
 # Chudoba ve světě a její vliv na D&D
 
