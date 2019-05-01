@@ -1,6 +1,6 @@
 ---
 title:  "Chudoba ve světě a její vliv na D&D"
-date:   2019-05-1
+date:   2019-05-01
 tags: 
     - dataset
     - chudoba
@@ -23,11 +23,11 @@ Když se tedy podíváme na nutnou počáteční investici hráče D&D, opomenem
 
 ## Data
 
-Podle dat World Bank ze serveru datahub.io která popisují počty lidí žijících pod hranicí 1.9 USD na den. Tito lidé si ze zjevných důvodu opravdu nemohou dovolit nakupovat knihy pravidel D&D.
+Data World Bank ze serveru datahub.io která popisují velikost té části populace která žije pod hranicí 1.9 USD na den. Tito lidé si ze zjevných důvodu opravdu nemohou dovolit nakupovat knihy pravidel D&D.
 
 <iframe src="https://datahub.io/world-bank/si.pov.dday/r/0.html" width="100%" height="100%" frameborder="0"></iframe>
 
-Poverty headcount ratio at national poverty lines (% of population). In: Datahub.io [online]. 2018 [cit. 2019-05-01]. Dostupné z: https://datahub.io/world-bank/si.pov.nahc/r/0.html
+Poverty headcount ratio at $1.90 a day. In: Datahub.io [online]. 2018 [cit. 2019-05-01]. Dostupné z: https://datahub.io/world-bank/si.pov.nahc/r/0.html
 
 ## Závěrem
 
