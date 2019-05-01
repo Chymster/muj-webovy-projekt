@@ -1,7 +1,8 @@
 {{ if not $.Site.IsServer }}
   {{ with $.Site.GoogleAnalytics }}
   <head>
-    {{ template "_internal/google-analytics.html" . }}
+    {{ template "_internal/google_analytics.html" . }}
+    {{ template "_internal/google_analytics_async.html" . }}
     </head>
   <script>
   window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
