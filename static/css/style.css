@@ -1,12 +1,71 @@
-.wrapper {
-  margin: 30px auto;
-  max-width: 800px;
-  padding: 20px;
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Federant|Roboto|Cinzel+Decorative'); /* FONT */
+
+h1 {
+  color: #32633C;
+  font-family: 'Cinzel', serif;
+
+}
+
+h1 > a { /* Hlavní nadpis */
+  font-family: 'Cinzel Decorative', cursive;
+  color: #ce0000;
+  text-decoration: none;
+  font-size: 125%;
+}
+
+h2 {
+ font-family: 'Cinzel', serif;
+
+}
+
+h2 > a { /* Nadpisi s odkazem */
+ color: Black;
+}
+
+h3 {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+nav > ul > li > a { /* MENU */
+ font-family: 'Federant', cursive;
+ text-decoration: none;
+ font-size: 25px;
+ color: #A84F00;
+
+}
+
+a {
+  color: #052f72;
+}
+
+footer > p > a { /* Copyright */
+  color:black;
 }
 
 header {
   padding: 30px 0 0;
   border-bottom: solid;
+  background: url("https://cdn.pixabay.com/photo/2017/08/31/04/01/d20-2699387_960_720.png"); /* */
+  background-repeat: no-repeat;
+  background-position: 95% 50%; 
+  background-size: 100px 100px;
+}
+
+body {
+  background: url("https://wallpapercave.com/wp/wp2227193.jpg");
+  background-repeat: repeat;
+  background-size: left;
+  font-family: 'Roboto', sans-serif;
+  font-size: 14px;
+  color: black;
+}
+
+.wrapper { 
+  margin: 30px auto;
+  max-width: 800px;
+  padding: 20px;
+  background-color: hsla(90, 255%, 255%, 0.8);
 }
 
 footer {
@@ -21,6 +80,10 @@ footer {
   padding-left: 1.5em;
   padding-bottom: 2em;
   min-height: 400px;
+}
+
+.page > ol { 
+  padding-left: 20px;
 }
 
 aside {
