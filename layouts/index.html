@@ -1,6 +1,12 @@
 {{ define "main" }}
   {{ .Content }}
+      <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'UA-139401208-1');
+</script>
   <h2>New articles</h2>
 
   {{ range first 10 (where .Data.Pages "Section" "post") }}
