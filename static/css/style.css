@@ -39,6 +39,11 @@ a {
   color: #052f72;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 footer > p > a { /* Copyright */
   color:black;
 }
