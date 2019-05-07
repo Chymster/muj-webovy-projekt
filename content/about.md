@@ -49,5 +49,5 @@ menu:
 	    -   js animace kostky (js)
     
 8.  ### Strategii zveřejňování obsahu: jaké informace budete zveřejňovat? (Projekt poběží po zbytek semestru, tedy přibližně 8 týdnů.)
-    -   Dnd má mnoho knih a pravidel. My budeme vycházet z pravidel SRD která jsou volně šiřitelná. Kdyby tato služba měla fungovat do budoucna, tak by se mohli přidávat i další postavy, rasy, povolání atd i z dalších knih a pravidel. (Samozřejmě za příplatek. Licence něco stojí)
+    -   D&D má mnoho knih a pravidel. My budeme vycházet z pravidel SRD která jsou volně šiřitelná. Kdyby tato služba měla fungovat do budoucna, tak by se mohli přidávat i další postavy, rasy, povolání atd i z dalších knih a pravidel. (Samozřejmě za příplatek. Licence něco stojí)
     -   Funkce budeme zveřejňovat v takovém pořadí v jakém se nám je podaří zprovoznit.

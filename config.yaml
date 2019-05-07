@@ -15,6 +15,5 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
-
+  description: Stránka o hře Dungeons & Dragons a všem s ní spojené.
+  authors: Studenti NaMI
