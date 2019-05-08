@@ -2,11 +2,11 @@
 title: Rozcestník
 ---
 
-**Výtej Poutníku! Jsme tři zahradní trpaslíci kteří se rozhodli pomoci začínajícím dobrodruhům. Pojď blíže a představ se nám.**
+**Vítej Poutníku! Jsme tři zahradní trpaslíci kteří se rozhodli pomoci začínajícím dobrodruhům. Pojď blíže a představ se nám.**
 [![Trpasl-ci.png](https://i.postimg.cc/C19VvkBw/Trpasl-ci.png)](https://postimg.cc/62VSq7fP)
 *Naším cílem je vytvořit nástroj na tvorbu postav do Dungeons & Dragons v českém jazyce. Jednoduchý nástroj na základě zvolených nebo náhodně vygenerovaných elementů vytvoří hotovou postavu.*
 
-Hlavním nástojem na který zaměřujeme je generátor postavy v české lokalizaci. Přičemož je zde důležítá právě ta čeština. Rádi bychom se funkcionalitou přiblížili již fungujícím cizojazyčným generátorm postav, jako je například níže zmíněný Orcpub.
+Hlavním nástrojem, na který se zaměřujeme, je generátor postavy v české lokalizaci, přičemž je zde důležitá právě ta čeština. Rádi bychom se funkcionalitou přiblížili již fungujícím cizojazyčným generátorům postav, jako je například níže zmíněný Orcpub.
 
 Zajímavé odkazy: <br>
 https://www.dndbeyond.com <br>
