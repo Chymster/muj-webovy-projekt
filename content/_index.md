@@ -1,17 +1,14 @@
 ---
-title: Generátor D&D postav
+title: Rozcestník
 ---
 
-**Naším cílem je vytvořit nástroj na tvorbu postav do Dungeons & Dragons v českém jazyce. Jednoduchý nástroj na základě zvolených nebo náhodně vygenerovaných elementů vytvoří hotovou postavu.**
+**Výtej Poutníku! Jsme tři zahradní trpaslíci kteří se rozhodli pomoci začínajícím dobrodruhům. Pojď blíže a představ se nám.**
+[![Trpasl-ci.png](https://i.postimg.cc/C19VvkBw/Trpasl-ci.png)](https://postimg.cc/62VSq7fP)
+*Naším cílem je vytvořit nástroj na tvorbu postav do Dungeons & Dragons v českém jazyce. Jednoduchý nástroj na základě zvolených nebo náhodně vygenerovaných elementů vytvoří hotovou postavu.*
 
-Hra Dungeons & Dragons je hra na hrdiny, kterou bychom mohli přirovnat k Dračímu doupěti. Pro nové hráče, kteří nemají Dungeons & Dragons až tak moc nahrané, může být složité vytvořit si novou postavu. A to především pro nepřehledné množství vzájemně se ovlivňujících atributů a z nich vyplývajících statistik.
+Hlavním nástojem na který zaměřujeme je generátor postavy v české lokalizaci. Přičemož je zde důležítá právě ta čeština. Rádi bychom se funkcionalitou přiblížili již fungujícím cizojazyčným generátorm postav, jako je například níže zmíněný Orcpub.
 
-Dungeons & Dragons není v České republice po jazykové stránce zas tak moc rozšířená. V angličtině již generátory postav jsou (viz. zdroj), v češtině ovšem ne. 
-
-Myslím, že tento nástroj by mohli ocenit začínající hráči, lidé s horší angličtinou pro tvorbu svých postav a také pánové jeskyně pro tvorbu obyčejných NPC (non-player character).
-
-
-Zdroj: <br>
+Zajímavé odkazy: <br>
 https://www.dndbeyond.com <br>
 https://cs.wikipedia.org/wiki/Dungeons_%26_Dragons <br>
 http://www.orcpub.com/
