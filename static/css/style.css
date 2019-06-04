@@ -52,6 +52,7 @@ header {
   padding: 30px 0 0;
   border-bottom: solid;
   background: url("https://cdn.pixabay.com/photo/2017/08/31/04/01/d20-2699387_960_720.png"); /* */
+  background-repeat: no-repeat;
   background-position: 95% 50%; 
   background-size: 100px 100px;
 }
